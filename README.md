@@ -47,4 +47,4 @@ Located in /docs directory, it have 3 sup directories: Glopal Architectre, DataB
 - DataBase Design
 -- ERD and database schem
 - Daily Tasks Discriptio
--- this not for documentaion, but it is for me to add the tasks that i will complish.
+-- this not for documentaion, but it is for me track the Mailstons and tasks that i finished.
