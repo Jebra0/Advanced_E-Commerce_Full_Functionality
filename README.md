@@ -41,3 +41,10 @@ Step-by-step instructions on how to install and set up the project locally.
 - Libraries/Backages: [....]
 
 ## Documentation
+Located in /docs directory, it have 3 sup directories: Glopal Architectre, DataBase Design and Daily Tasks Discription.
+- Glopal Architectre
+-- for the architecture of all the system Digrams and Text discription for the components and how it's acts.
+- DataBase Design
+-- ERD and database schem
+- Daily Tasks Discriptio
+-- this not for documentaion, but it is for me to add the tasks that i will complish.
